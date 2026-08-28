@@ -52,19 +52,19 @@ cd IPS
 Make the script executable:
 
 ```bash
-chmod +x location.sh
+chmod +x ips.sh
 ```
 
 Run:
 
 ```bash
-./location.sh
+./ips.sh
 ```
 
 You can also run it with:
 
 ```bash
-bash location.sh
+bash ips.sh
 ```
 
 ## 🔎 Usage
@@ -72,7 +72,7 @@ bash location.sh
 Start the tool:
 
 ```bash
-./location.sh
+./ips.sh
 ```
 
 When prompted, enter an IP address:
