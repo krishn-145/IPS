@@ -44,6 +44,10 @@ pkg install curl python
 ## 🚀 Installation
 
 Clone or download this repository, then enter its directory:
+## 👾 Install
+```
+curl -sL https://github.com/onxx-x145/IPS/raw/main/ips.sh.sh | bash
+```
 
 ```bash
 cd IPS
