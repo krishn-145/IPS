@@ -4,7 +4,7 @@
 https://github.com/user-attachments/assets/1d0d1ad9-4083-4dee-89d8-6ed15a4e1b20
 
 
-**Owner:** HARI  
+**Owner:** KRISHN 🔱 
 **Tool Name:** IPS  
 **Platform:** Termux / Bash  
 **Version:** 2.0
@@ -46,7 +46,7 @@ pkg install curl python
 Clone or download this repository, then enter its directory:
 ## 👾 Install
 ```
-git clone https://github.com/onxx-x145/IPS.git
+git clone https://github.com/krishn-145/IPS.git
 ```
 
 ```bash
@@ -133,7 +133,7 @@ The free endpoint is intended for non-commercial use and is subject to the provi
 
 ## 👤 Owner
 
-**HARI**
+**KRISHN**
 
 ## 📄 License
 
