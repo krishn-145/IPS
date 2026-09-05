@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-# IPS protected launcher - Owner: HARI
+# IPS protected launcher - Owner: KRISHN 🔱 
 # The embedded payload is compressed/encoded so the original Bash source
 # is not directly readable. This is obfuscation, not cryptographic secrecy.
 # Open GitHub
