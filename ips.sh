@@ -4,7 +4,7 @@
 # is not directly readable. This is obfuscation, not cryptographic secrecy.
 # Open GitHub
 echo -e "\033[38;5;214m[$current_time]\033[0m \033[1;32m[INFO]:\033[0m]Instagram Open..."
-am start -a android.intent.action.VIEW -d "https://www.Instagram.com/_insrnx_" com.android.chrome >/dev/null 2>&1 || {
+am start -a android.intent.action.VIEW -d "https://www.Instagram.com/ur_.krishn._02" com.android.chrome >/dev/null 2>&1 || {
     echo -e "\033[38;5;214m[$current_time]\033[0m \033[1;33m[WARNING]:\033[0m Could not open ."
 }
 set -e
